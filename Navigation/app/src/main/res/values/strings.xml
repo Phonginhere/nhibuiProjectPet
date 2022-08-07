@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Introduce</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_Home_fragment">Hello Home fragment</string>
+    <string name="hello_Profile_fragment">Hello Profile fragment</string>
+    <string name="hello_Setting_fragment">Hello Setting fragment</string>
+    <string name="profile">Profile</string>
+    <string name="notification">Notification</string>
+    <string name="info">About</string>
+    <string name="support">Support</string>
+    <string name="inbox">Inbox</string>
+    <string name="orders">Orders</string>
+    <string name="collection">Collection</string>
+    <string name="setting">Settings</string>
+</resources>
