@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">LayoutAdmin</string>
+    <string name="record">Record</string>
+    <string name="short_view">Short View</string>
+    <string name="more">more</string>
+    <string name="clients">Clients</string>
+    <string name="_395">395</string>
+    <string name="impacted">Impacted</string>
+    <string name="_147">147</string>
+    <string name="following">following</string>
+    <string name="_820">820</string>
+    <string name="_186">$186</string>
+    <string name="thin_face_niddle">Thin face niddle</string>
+    <string name="north_sylvanland">North sylvanland</string>
+    <string name="_10am_6pm">10am - 6pm</string>
+    <string name="thin_face_needle">Thin face needle</string>
+    <string name="north">North</string>
+    <string name="_225">$225</string>
+    <string name="hydro_lifting">hydro lifting</string>
+    <string name="south_lionel">South Lionel</string>
+    <string name="_09am_07pm">09am - 07pm</string>
+    <string name="_180">$180</string>
+    <string name="eyelid_folder">Eyelid Folder</string>
+    <string name="_10am_8pm">10am - 8pm</string>
+    <string name="_328">$328</string>
+    <string name="hyaluhoric_acid">Hyaluhoric acid</string>
+    <string name="new_benny">new benny</string>
+    <string name="_9am_7pm">9am - 7pm</string>
+</resources>
